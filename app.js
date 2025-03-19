@@ -1,4 +1,4 @@
-const backendURL = "https://backend-36z7.onrender.com"; // Cambia por la URL de tu backend
+const backendURL = "https://despliegue-zkpx.onrender.com"; // Cambia por la URL de tu backend
 
 // Obtener los items
 async function fetchItems() {
